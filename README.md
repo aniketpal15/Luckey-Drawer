@@ -1,11 +1,14 @@
 # 🎰 Lucky Drawer / Ticket Drawer
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-luckey--drawer.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luckey-drawer.vercel.app/)
 ![React 19](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Oxlint](https://img.shields.io/badge/Oxlint-1.81-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 An interactive, sleek, and modern web application simulating a lucky ticket drawer slot machine. Built with **React 19**, **Vite**, and styled with custom **Glassmorphism UI** animations.
+
+🔗 **Live Demo**: [https://luckey-drawer.vercel.app/](https://luckey-drawer.vercel.app/)
 
 ---
 
@@ -93,6 +96,7 @@ Ticket Drawer/
 
 - **Frontend**: [React 19](https://react.dev/)
 - **Build Tool**: [Vite 8](https://vitejs.dev/)
+- **Deployment**: [Vercel](https://vercel.com/)
 - **Linting**: [Oxlint](https://oxc.rs/)
 - **Styling**: Vanilla CSS (Glassmorphism, CSS Animations, Micro-interactions)
 
